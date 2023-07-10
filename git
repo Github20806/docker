@@ -1,0 +1,3 @@
+FROM ubuntu
+RUN echo "hey sai " > /tmp/testfile
+ENV myname sai
